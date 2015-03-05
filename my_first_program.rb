@@ -2,7 +2,7 @@ puts 2+4
 puts 3+2
 puts 4/2
 puts 2%2
-print 2+2
+
 print 2+1
 print "\n"
 gets
